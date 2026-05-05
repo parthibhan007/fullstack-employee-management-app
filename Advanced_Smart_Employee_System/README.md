@@ -129,55 +129,8 @@ This project demonstrates full-stack development skills, including frontend deve
 <img width="1918" height="868" alt="Image" src="https://github.com/user-attachments/assets/cefce80d-3843-4cb9-9d15-02c990ed32c7" />
 
 smart-employee-attrition-system/
-│
-├── backend/
-│   ├── config/
-│   │   └── db.js
-│   │
-│   ├── controllers/
-│   │   ├── authController.js
-│   │   ├── employeeController.js
-│   │   └── performanceController.js
-│   │
-│   ├── models/
-│   │   ├── User.js
-│   │   ├── Employee.js
-│   │   └── Performance.js
-│   │
-│   ├── routes/
-│   │   ├── authRoutes.js
-│   │   ├── employeeRoutes.js
-│   │   └── performanceRoutes.js
-│   │
-│   ├── utils/
-│   │   └── riskCalculator.js
-│   │
-│   ├── .env
-│   ├── server.js
-│   └── package.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   └── Navbar.jsx
-│   │   │
-│   │   ├── pages/
-│   │   │   ├── Login.jsx
-│   │   │   ├── Dashboard.jsx
-│   │   │   ├── Employees.jsx
-│   │   │   ├── AddEmployee.jsx
-│   │   │   └── EditEmployee.jsx
-│   │   │
-│   │   ├── services/
-│   │   │   └── api.js
-│   │   │
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   │
-│   ├── index.html
-│   ├── package.json
-│   └── vite.config.js
-│
-└── README.md
+
+<img width="641" height="881" alt="Image" src="https://github.com/user-attachments/assets/a8925a17-7060-4757-8e88-fab2df5f61ba" />
+
 Author  
 Parthibhan R
