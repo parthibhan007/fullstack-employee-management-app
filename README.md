@@ -94,6 +94,7 @@ WEB IMAGES: -
 
 <img width="1035" height="753" alt="Image" src="https://github.com/user-attachments/assets/90b5fc7c-dc8f-4d4b-a271-52966425b539" />
 
+Postman : -
 
 <img width="1578" height="1013" alt="Image" src="https://github.com/user-attachments/assets/7a6e7f14-2607-480f-a1ff-4f5d01be8a2c" />
 
