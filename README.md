@@ -77,50 +77,8 @@ return "Low";
 
 Project Structure : -
 
-employee-management-system/
-│
-├── backend/
-│   ├── config/
-│   │    └── db.js
-│   │
-│   ├── controllers/
-│   │    ├── authController.js
-│   │    ├── employeeController.js
-│   │    └── performanceController.js
-│   │
-│   ├── models/
-│   │    ├── User.js
-│   │    ├── Employee.js
-│   │    └── Performance.js
-│   │
-│   ├── routes/
-│   │    ├── authRoutes.js
-│   │    ├── employeeRoutes.js
-│   │    └── performanceRoutes.js
-│   │
-│   ├── utils/
-│   │    └── riskCalculator.js
-│   │
-│   ├── .env
-│   ├── server.js
-│   └── package.json
-│
-├── frontend/
-│   ├── src/
-│   │    ├── pages/
-│   │    │    ├── Dashboard.jsx
-│   │    │    ├── Employees.jsx
-│   │    │    ├── AddEmployee.jsx
-│   │    │    └── Login.jsx
-│   │    │
-│   │    ├── components/
-│   │    │    └── Navbar.jsx
-│   │    │
 
-
-
-
-
+<img width="705" height="856" alt="Image" src="https://github.com/user-attachments/assets/30ef10f4-b642-4ad9-a57b-1285ebdd629a" />
 
 
 
