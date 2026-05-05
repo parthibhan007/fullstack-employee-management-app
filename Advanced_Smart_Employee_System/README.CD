@@ -1,0 +1,124 @@
+Smart Employee Attrition & Performance Management System
+
+Overview  
+This project is a full-stack web application designed to manage employee data, track performance, and predict employee attrition risk using rule-based logic. It provides a centralized system for HR teams to efficiently handle employee records and make informed decisions.
+
+Objective  
+The goal of this project is to build a scalable employee management system that not only performs CRUD operations but also analyzes employee performance and identifies potential attrition risks.
+
+Technology Stack  
+
+Frontend  
+React (Vite)  
+Axios  
+React Router  
+
+Backend  
+Node.js  
+Express.js  
+
+Database  
+MongoDB  
+
+Authentication  
+JWT (JSON Web Token)  
+bcrypt for password hashing  
+
+Features  
+
+User Authentication  
+User registration and login functionality  
+Secure password hashing using bcrypt  
+JWT-based authentication  
+
+Employee Management  
+Add new employees  
+View employee list  
+Update employee details  
+Delete employee records  
+
+Performance Tracking  
+Track attendance percentage  
+Store performance ratings  
+
+Attrition Risk Detection  
+The system uses rule-based logic to determine employee risk level:
+
+If attendance < 50 and rating < 2 → High Risk  
+If attendance < 70 and rating < 3 → Medium Risk  
+Otherwise → Low Risk  
+
+Dashboard  
+Displays total number of employees  
+Shows count of high-risk, medium-risk, and low-risk employees  
+Provides quick insights for HR decision-making  
+
+Employee Fields  
+Name  
+Role  
+Department  
+Salary  
+Attendance  
+Rating  
+Date of Joining (optional)  
+Experience (optional)  
+
+Project Structure  
+
+backend  
+config  
+controllers  
+models  
+routes  
+utils  
+server.js  
+
+frontend  
+src  
+components  
+pages  
+services  
+App.jsx  
+main.jsx  
+
+How to Run the Project  
+
+Backend Setup  
+Navigate to backend folder  
+Install dependencies  
+Start the server  
+
+Frontend Setup  
+Navigate to frontend folder  
+Install dependencies  
+Run the development server  
+
+Default Login Credentials  
+
+Email: admin@gmail.com  
+Password: 123456  
+
+API Endpoints  
+
+Authentication  
+POST /api/auth/register  
+POST /api/auth/login  
+
+Employee  
+GET /api/employees  
+POST /api/employees  
+PUT /api/employees/:id  
+DELETE /api/employees/:id  
+
+Future Enhancements  
+
+Add charts for analytics  
+Implement role-based access control  
+Add search and filtering  
+Integrate machine learning for advanced attrition prediction  
+
+Conclusion  
+This project demonstrates full-stack development skills, including frontend development, backend API design, database integration, authentication, and solving a real-world business problem related to employee attrition and HR analytics.
+
+Author  
+Parthibhan R
