@@ -88,6 +88,7 @@ WEB IMAGES: -
 
 <img width="721" height="600" alt="Image" src="https://github.com/user-attachments/assets/4a5add85-c1ab-4570-bac9-ed74e8ea2969" />
 
+cmd_command : -
 
 <img width="951" height="566" alt="Image" src="https://github.com/user-attachments/assets/82681980-0e95-4970-9550-389d5dbcb24f" />
 
