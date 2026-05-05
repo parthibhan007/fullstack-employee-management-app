@@ -4,7 +4,6 @@ Overview
 This project is a full-stack web application designed to manage employee data, track performance, and predict employee attrition risk using rule-based logic. It provides a centralized system for HR teams to efficiently handle employee records and make informed decisions.
 
 <img width="1917" height="865" alt="Image" src="https://github.com/user-attachments/assets/11884c0c-8340-4bb4-a581-02a572d4cff8" />
-
 Objective  
 The goal of this project is to build a scalable employee management system that not only performs CRUD operations but also analyzes employee performance and identifies potential attrition risks.
 
