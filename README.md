@@ -116,17 +116,6 @@ employee-management-system/
 │   │    ├── components/
 │   │    │    └── Navbar.jsx
 │   │    │
-│   │    ├── services/
-│   │    │    └── api.js
-│   │    │
-│   │    ├── App.jsx
-│   │    └── main.jsx
-│   │
-│   ├── index.html
-│   ├── package.json
-│   └── vite.config.js
-│
-└── README.md
 
 
 
