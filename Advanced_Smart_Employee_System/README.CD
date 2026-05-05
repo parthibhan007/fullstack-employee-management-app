@@ -120,5 +120,56 @@ Integrate machine learning for advanced attrition prediction
 Conclusion  
 This project demonstrates full-stack development skills, including frontend development, backend API design, database integration, authentication, and solving a real-world business problem related to employee attrition and HR analytics.
 
+smart-employee-attrition-system/
+│
+├── backend/
+│   ├── config/
+│   │   └── db.js
+│   │
+│   ├── controllers/
+│   │   ├── authController.js
+│   │   ├── employeeController.js
+│   │   └── performanceController.js
+│   │
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Employee.js
+│   │   └── Performance.js
+│   │
+│   ├── routes/
+│   │   ├── authRoutes.js
+│   │   ├── employeeRoutes.js
+│   │   └── performanceRoutes.js
+│   │
+│   ├── utils/
+│   │   └── riskCalculator.js
+│   │
+│   ├── .env
+│   ├── server.js
+│   └── package.json
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── Navbar.jsx
+│   │   │
+│   │   ├── pages/
+│   │   │   ├── Login.jsx
+│   │   │   ├── Dashboard.jsx
+│   │   │   ├── Employees.jsx
+│   │   │   ├── AddEmployee.jsx
+│   │   │   └── EditEmployee.jsx
+│   │   │
+│   │   ├── services/
+│   │   │   └── api.js
+│   │   │
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   │
+│   ├── index.html
+│   ├── package.json
+│   └── vite.config.js
+│
+└── README.md
 Author  
 Parthibhan R
