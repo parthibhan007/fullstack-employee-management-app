@@ -6,7 +6,7 @@ This project is a full-stack Employee Management System designed to help organiz
 It provides a centralized platform for HR teams to make data-driven decisions.
 
 ---
-
+<img width="881" height="588" alt="Image" src="https://github.com/user-attachments/assets/957deedf-73d7-4f64-a154-73ba1bed7344" />
  🎯 Problem Statement
 Many organizations struggle with:
 - Managing employee data efficiently
@@ -15,6 +15,7 @@ Many organizations struggle with:
 - Making data-driven HR decisions
 
 ---
+<img width="1918" height="871" alt="Image" src="https://github.com/user-attachments/assets/23d31d7c-e51d-407a-80af-d847823f29c9" />
 
  💡 Solution
 This system solves the above problems by:
