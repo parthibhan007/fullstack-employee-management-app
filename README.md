@@ -81,4 +81,20 @@ Project Structure : -
 <img width="705" height="856" alt="Image" src="https://github.com/user-attachments/assets/30ef10f4-b642-4ad9-a57b-1285ebdd629a" />
 
 
+WEB IMAGES: - 
+
+<img width="1823" height="458" alt="Image" src="https://github.com/user-attachments/assets/748896ec-2256-49fa-b390-960c8dd3218e" />
+
+
+<img width="721" height="600" alt="Image" src="https://github.com/user-attachments/assets/4a5add85-c1ab-4570-bac9-ed74e8ea2969" />
+
+
+<img width="951" height="566" alt="Image" src="https://github.com/user-attachments/assets/82681980-0e95-4970-9550-389d5dbcb24f" />
+
+
+<img width="1035" height="753" alt="Image" src="https://github.com/user-attachments/assets/90b5fc7c-dc8f-4d4b-a271-52966425b539" />
+
+
+<img width="1578" height="1013" alt="Image" src="https://github.com/user-attachments/assets/7a6e7f14-2607-480f-a1ff-4f5d01be8a2c" />
+
 
