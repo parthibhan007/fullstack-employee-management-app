@@ -118,8 +118,15 @@ Implement role-based access control
 Add search and filtering  
 Integrate machine learning for advanced attrition prediction  
 
+
+<img width="1642" height="873" alt="Image" src="https://github.com/user-attachments/assets/5ac9abf3-fca4-4924-a482-79dd32afed7f" />
+
 Conclusion  
 This project demonstrates full-stack development skills, including frontend development, backend API design, database integration, authentication, and solving a real-world business problem related to employee attrition and HR analytics.
+
+<img width="1896" height="868" alt="Image" src="https://github.com/user-attachments/assets/77e361a7-9c7b-4344-b05e-9524be68f536" />
+
+<img width="1918" height="868" alt="Image" src="https://github.com/user-attachments/assets/cefce80d-3843-4cb9-9d15-02c990ed32c7" />
 
 smart-employee-attrition-system/
 │
