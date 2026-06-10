@@ -1,5 +1,5 @@
  🚀 Smart Employee Attrition & Performance Management System
-
+<img width="1901" height="898" alt="Image" src="https://github.com/user-attachments/assets/bdc8fbc7-7c7f-4244-b6d4-9794fd7641e5" />
  📌 Overview
 This project is a full-stack Employee Management System designed to help organizations manage employee data, track performance, and identify attrition risk using rule-based logic.
 
