@@ -4,6 +4,8 @@ This project is a full-stack Employee Management System designed to help organiz
 
 It provides a centralized platform for HR teams to make data-driven decisions.
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d2e0e391-b9e4-46cb-be3c-026e60b18226" />
+
 ---
 <img width="881" height="588" alt="Image" src="https://github.com/user-attachments/assets/957deedf-73d7-4f64-a154-73ba1bed7344" />
  🎯 Problem Statement
